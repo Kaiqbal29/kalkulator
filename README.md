@@ -1,3 +1,1 @@
 # kalkulator
-# kalkulator
-# kalkulator
