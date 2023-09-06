@@ -1,0 +1,21 @@
+E:\22.11.4850\pertemuan1\tantangan1\bin\Debug\tantangan1.exe.config
+E:\22.11.4850\pertemuan1\tantangan1\bin\Debug\tantangan1.exe
+E:\22.11.4850\pertemuan1\tantangan1\bin\Debug\tantangan1.pdb
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csprojAssemblyReference.cache
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.Form1.resources
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.Properties.Resources.resources
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csproj.GenerateResource.cache
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csproj.CoreCompileInputs.cache
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.exe
+E:\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.pdb
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\bin\Debug\tantangan1.exe.config
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\bin\Debug\tantangan1.exe
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\bin\Debug\tantangan1.pdb
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csproj.AssemblyReference.cache
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csproj.SuggestedBindingRedirects.cache
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.Form1.resources
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.Properties.Resources.resources
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csproj.GenerateResource.cache
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.csproj.CoreCompileInputs.cache
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.exe
+E:\Pemograman Lanjut\22.11.4850\22.11.4850\pertemuan1\tantangan1\obj\Debug\tantangan1.pdb
